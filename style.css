@@ -224,3 +224,11 @@ opacity: 0.6;
 .next{
 font-weight: bold;
 }
+
+#qr-code {
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
